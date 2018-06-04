@@ -5,10 +5,10 @@ with open('README.rst') as file:
 
 setup(
     name='zxcvbn',
-    version='4.4.25',
+    version='4.4.26',
     packages=['zxcvbn'],
-    url='https://github.com/dwolfhub/zxcvbn-python',
-    download_url='https://github.com/dwolfhub/zxcvbn-python/tarball/v4.4.25',
+    url='https://github.com/rockhunters08/zxcvbn-python',
+    download_url='https://github.com/rockhunters08/zxcvbn-python/tarball/v4.4.26',
     license='MIT',
     author='Daniel Wolf',
     author_email='danielrwolf5@gmail.com',
